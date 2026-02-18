@@ -247,15 +247,7 @@ I'm actively seeking **Frontend** and **Fullstack** positions where I can contri
 
 ---
 
-## 📝 Recent Articles
 
-<!-- Optional: If you write blogs or technical articles -->
-
-- 📖 [Article Title 1](link) - Brief description
-- 📖 [Article Title 2](link) - Brief description
-- 📖 [Article Title 3](link) - Brief description
-
----
 
 ## 📫 Let's Connect!
 
